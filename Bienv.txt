@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-Hola que tal mi gente bonita
-La panzonita de Aguascalientes
-=======
-Hola, Mundo!
-Adió
+Hola,que tal mi gente bonita 
+Adiós
 
-arriva la upa
-
-
-diciembre
-s
->>>>>>> 28eb0d4954eec1733844cc17eebd81a3dadd3e34
+arriba la upaaa
