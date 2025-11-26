@@ -1,8 +1,2 @@
-Hola compañeros de github, ¡Vamos a programar!
-
-public class primer reporemoto {
-	public void main(String Args[]){
-
-
-	}
-}
+Hola, Mundo!
+Adiós
