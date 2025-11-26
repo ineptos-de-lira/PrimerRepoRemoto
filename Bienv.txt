@@ -1,2 +1,13 @@
+<<<<<<< HEAD
 Hola que tal mi gente bonita
 La panzonita de Aguascalientes
+=======
+Hola, Mundo!
+Adió
+
+arriva la upa
+
+
+diciembre
+s
+>>>>>>> 28eb0d4954eec1733844cc17eebd81a3dadd3e34
