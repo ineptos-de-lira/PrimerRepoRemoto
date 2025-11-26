@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hola
 Adios
+=======
+Hola, Mundo!
+Adiós
+>>>>>>> dbccc43bffc5c6a63fda8c5ba6b34488f3b3abd5
