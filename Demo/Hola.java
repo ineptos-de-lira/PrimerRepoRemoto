@@ -11,6 +11,7 @@ class Saludar{
     Scanner s = new Scanner(System.in);
     System.out.println("Ingresa tu nombre: ");
     String nombre = s.nextLine();
+    s.close();
     return nombre;
   }
 
