@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Hola. ¿Cómo estás?
+=======
+Hola mundo
+
+saquen a lalo
+
+>>>>>>> 526d92d2018a3ab2b2557d22fd16634b47b7b8c2
