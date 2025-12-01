@@ -9,6 +9,8 @@ class Calcualdora {
 
 		System.out.println("Ingresa el divisor");
 		double b = sc.nextDouble();
+		
+		sc.close();
 
 		double div = division(a,b);
 		System.out.println("El resultado de la división entre " + a + " y " + b + " es: " + div);
