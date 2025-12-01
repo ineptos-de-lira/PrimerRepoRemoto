@@ -10,7 +10,7 @@ public class waza {
     System.out.println("     ██                ██");
     System.out.println("     ██    ████████    ██");
     System.out.println("   ████    ██    ██    ██");
-    System.out.println("   ██      ██    ██    ██");
+    System.out.println("   ██      ██    ██    ██"); 
     System.out.println("   ██      ██    ██    ██");
     System.out.println("   ████    ██    ██    ██");
     System.out.println("     ██    ██    ██    ██");
