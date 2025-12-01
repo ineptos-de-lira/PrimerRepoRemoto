@@ -1,5 +1,5 @@
-public calss Gera {
+public class Gera {
 	public static main(String [] args){
-	System.out.println("haola mundoo");
+	System.out.println("hola  mundoo");
 	}
 }
