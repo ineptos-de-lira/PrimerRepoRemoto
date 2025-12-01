@@ -11,5 +11,6 @@ public class hola {
         } else {
           	System.out.println("Todavia no puedes comprar cheves");
         }
+	lector.close();
     }
 }
