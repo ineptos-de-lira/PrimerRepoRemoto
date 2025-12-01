@@ -14,7 +14,7 @@ class SortArray {
         }
       }
     }
-    System.out.println("El arreglo ordenado es: " + Arrays.toString(array));
+    System.out.println("The sorted array is: " + Arrays.toString(array));
   }
 
   public static void main(String[] args) {
